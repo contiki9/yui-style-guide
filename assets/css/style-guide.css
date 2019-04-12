@@ -1,0 +1,36 @@
+
+._guide-body{
+    padding: 30px;
+}
+._guide-body.is-full{
+    padding: 0;
+}
+
+._guide-body .h2_guide-title{
+    border-bottom: 1px solid #90a4ae;
+    padding-bottom: 16px;
+    margin-bottom: 32px;
+    font-size: 18px;
+    font-weight: bold;
+}
+._guide-body .hr_guide-line{
+    margin-bottom: 60px;
+    margin-top: 60px;
+    display: block;
+    border: none;
+    background: #cfd8dc;
+    height: 1px;
+    width: 100%;
+}
+
+._guide-body code {
+    background-color: whitesmoke;
+    color: #ff3860;
+    font-size: 0.875em;
+    font-weight: normal;
+    padding: 0.25em 0.5em 0.25em;
+}
+
+._guide-box{
+    margin: 16px;
+}
